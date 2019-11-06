@@ -1,1 +1,1 @@
-create table teste3 (nome varchar(10));
+create table teste6 (nome varchar(10));

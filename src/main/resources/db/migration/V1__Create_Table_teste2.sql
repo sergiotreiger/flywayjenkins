@@ -1,2 +1,2 @@
 use flyway_test;
-create table teste2 (nome varchar(10));
+create table teste5 (nome varchar(10));
